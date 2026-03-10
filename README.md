@@ -1,4 +1,4 @@
-# Classification d'images — Réseaux de neurones & CNN 🧠
+# Classification d'images — Réseaux de neurones & CNN 
 
 Dense + CNN sur MNIST et CIFAR-10 — Accuracy : **97.73%**
 
